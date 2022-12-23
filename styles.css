@@ -16,3 +16,7 @@
 .filledBlock{
     background-color: black;
 }
+
+button{
+    display: flex;
+}
