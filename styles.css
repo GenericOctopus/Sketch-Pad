@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.pad {
+    display: grid;
+    width: 720px;
+    height: 720px;
+}
+
+.blockStyle {
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.filledBlock{
+    background-color: black;
+}
